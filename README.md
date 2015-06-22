@@ -7,3 +7,4 @@ A tiny command line tool that tells you how long you were working the last days
 - [x] Show worktime excluding break
 - [ ] Custom break length
 - [ ] Ascii progress bar for today
+- [ ] Collect AFK-Time (via lockscreen)
